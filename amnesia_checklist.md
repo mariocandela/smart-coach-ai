@@ -238,7 +238,7 @@
 
 - **Obiettivi Fisici:**  
   Quali sono i tuoi obiettivi a breve e lungo termine, sia in ambito agonistico che non?  
-  Migliorare la composizione corporia
+  Aumento massa muscolare graduale senza eccessivo accumuli di adipe.
 
 - **Per Chi si Allena in Home Gym:**  
   Elenca il materiale di allenamento di cui disponi nella tua home gym.
