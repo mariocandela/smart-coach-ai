@@ -1,7 +1,3 @@
-Ecco una descrizione per il tuo progetto **Smart Coach AI**:
-
----
-
 ### **Smart Coach AI – Il Tuo Personal Trainer Intelligente**
 
 **Smart Coach AI** è un'app avanzata che sfrutta l'intelligenza artificiale per creare programmi di allenamento e piani nutrizionali personalizzati, adattandoli alle esigenze di ogni utente. Grazie a un semplice questionario iniziale, il sistema analizza parametri come obiettivi, livello di fitness, preferenze alimentari e abitudini di vita, generando un piano su misura.
