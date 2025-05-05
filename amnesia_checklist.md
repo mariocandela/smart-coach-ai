@@ -21,7 +21,7 @@
   -
 
 - **Altezza e Peso Attuali:**  
-  79km, 180cm
+  81kg, 180cm
 
 ---
 
@@ -238,7 +238,7 @@
 
 - **Obiettivi Fisici:**  
   Quali sono i tuoi obiettivi a breve e lungo termine, sia in ambito agonistico che non?  
-  Aumento massa muscolare graduale senza eccessivo accumuli di adipe.
+  in vista del periodo estivo, vorrei migliorare la composizione corporia
 
 - **Per Chi si Allena in Home Gym:**  
   Elenca il materiale di allenamento di cui disponi nella tua home gym.
